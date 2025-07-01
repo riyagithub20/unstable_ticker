@@ -104,6 +104,6 @@ Practical Flutter architecture
  Smooth UI under stress
 ### Screenshot:
 
-![Performance Overlay Screenshot](assets/performance_screenshot.png)
+Performance Overlay Screenshot:  (assets/performance_screenshot.png)
 
 *Green bars confirm smooth 60 FPS rendering.*
