@@ -2,6 +2,7 @@ Unstable Ticker - Flutter Stock Tracker
  A resilient Flutter application that consumes an unstable WebSocket feed to display real-time stock prices.
  The app handles corrupted data, detects logical anomalies, and ensures a smooth, robust UI experience,
  fulfilling all the requirements outlined in the provided assignment.
+ 
   Setup Instructions
  Prerequisites:
 
