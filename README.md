@@ -101,3 +101,8 @@ Practical Flutter architecture
  Robust handling of unreliable real-time data
  Thoughtful anomaly detection with clear trade-off consideration
  Smooth UI under stress
+### Screenshot:
+
+![Performance Overlay Screenshot](assets/performance_screenshot.png)
+
+*Green bars confirm smooth 60 FPS rendering.*
